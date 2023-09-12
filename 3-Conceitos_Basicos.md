@@ -1,9 +1,3 @@
----
-id: 670
-tituloSuperior: Introdução ao ETL
-tituloInferior: Processos do ETL
----
-
 # Processos do ETL
 
 Os processos de ETL, divididos em _Staging Area_ (Camada _Bronze_), _Raw Area_ (Camada _Silver_), _Trusted Area_ (Camada _Gold_) e _Refined Area_— podendo as áreas serem chamadas de _zones_, _zonas_ ou camadas —, são, em ordem, os principais estágios do ETL. Mais detalhes de cada área estão descritos abaixo.

@@ -1,9 +1,3 @@
----
-id: 671
-tituloSuperior: Introdução ao ETL
-tituloInferior: Dicas para criar um bom processo de ETL
----
-
 # Dicas para se criar um bom processo de ETL
 
 Só carregar os dados, modificar quando necessário e gravar quando termina é a parte normal do processo. Entretanto, é importante ter alguns conceitos em mente na hora da criação do processo para evitar falhas ou retrabalhos.

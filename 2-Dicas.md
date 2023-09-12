@@ -1,9 +1,3 @@
----
-id: 667
-tituloSuperior: Introdução ao ETL
-tituloInferior: Conceitos de data mart e data warehouse
----
-
 # Conceitos de Data Mart e Data Warehouse
 
 ## Data Mart (DM)

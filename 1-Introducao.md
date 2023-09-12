@@ -1,9 +1,3 @@
----
-id: 666
-tituloSuperior: Introdução ao ETL
-tituloInferior: Conceitos básicos de ETL
----
-
 # Introdução ao ETL
 
 ## Conceitos básicos de ETL
